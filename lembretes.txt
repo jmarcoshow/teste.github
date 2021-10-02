@@ -1,4 +1,3 @@
-primeiro projeto teste
 
 cris3@LAPTOP-SN96MJAV MINGW64 ~/dev
 $ git clone https://github.com/jmarcoshow/teste.github.git
